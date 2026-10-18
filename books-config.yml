@@ -1,0 +1,5 @@
+parametros:
+  config:
+    valor1: uno
+    valor2: dos
+    valor3: traido desde el server config
