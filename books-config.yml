@@ -1,5 +1,5 @@
 parametros:
   config:
-    valor1: uno
-    valor2: dos
+    valor1: cadena de conexion
+    valor2: parametros default
     valor3: traido desde el server config
