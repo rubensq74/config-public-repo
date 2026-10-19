@@ -1,5 +1,5 @@
 parametros:
   config:
-    valor1: cadena de conexion
+    valor1: cadena de conexion cosmosdb
     valor2: parametros default
     valor3: traido desde el server config
