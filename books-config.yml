@@ -3,3 +3,10 @@ parametros:
     valor1: cadena de conexion cosmosdb
     valor2: parametros default
     valor3: traido desde el server config
+quarkus:
+  datasource:
+    db-kind: h2
+    jdbc:
+      url: "jdbc:h2:mem:appserver;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE"
+    username: sa
+    password: ""
